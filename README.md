@@ -1,7 +1,7 @@
 # paramPractiumRestfulAPI
 Rest standartlarına uygun olarak geliştirilmiş Restful API 
 
-KULLANILAN PAKETLER
+KULLANILAN TEKNOLOJİLER
 -AutoMapper
 -AutoMapper.Extensions.Microsoft.DependencyInjection
 -FluentValidation.DependencyInjectionExtensions
